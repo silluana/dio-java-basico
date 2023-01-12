@@ -1,4 +1,4 @@
-package edu.siluana.tiposvariaveis;
+package edu.siluana.javabasico;
 
 public class TiposEVariaveis {
     public static void main(String[] args) {
