@@ -52,7 +52,7 @@ public class Exercicio02 {
         while(iterator1.hasNext()) {
             Boolean resposta = (Boolean) iterator1.next();
             if (resposta) {
-                quantRespSim += 1;
+                quantRespSim++;
             }
         }
         
@@ -61,8 +61,6 @@ public class Exercicio02 {
                 System.out.println("Suspeita");
                 break;
             case 3:
-                System.out.println("Cúmplice");
-                break;
             case 4:
                 System.out.println("Cúmplice");
                 break;
